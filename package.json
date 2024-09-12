@@ -3,6 +3,7 @@
   "version": "0.0.0",
   "description": "",
   "scripts": {
+    "setup": "pip install --user --requirement requirements.txt",
     "shell": "source ~/miniforge3/bin/activate /Users/bacti/python-easyocr",
     "lab": "yarn shell && jupyter lab --port=8888 --port-retries=0"
   },
