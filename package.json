@@ -4,7 +4,7 @@
   "description": "",
   "scripts": {
     "setup": "pip install --user --requirement requirements.txt",
-    "shell": "source ~/miniforge3/bin/activate /Users/bacti/python-easyocr",
+    "shell": "source /media/bacti/home/miniforge3/bin/activate /media/bacti/home/python-easyocr",
     "lab": "yarn shell && jupyter lab --port=8888 --port-retries=0"
   },
   "author": "",
